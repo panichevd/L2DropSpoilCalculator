@@ -114,6 +114,8 @@ class Drop:
             self.chance = base_chance*SPOIL_RATE
         elif self.type != 'Asset' and self.type != '':
             self.chance = base_chance*DROP_RATE
+        else:
+            self.chance = base_chance
 
         if self.chance > 100:
             self.chance = 100

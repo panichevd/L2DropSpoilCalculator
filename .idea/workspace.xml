@@ -29,21 +29,19 @@
       <file leaf-file-name="database.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/database.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="0" selection-start="2782" selection-end="2782" vertical-scroll-proportion="-0.7535288" vertical-offset="1340" max-vertical-offset="2261">
+            <state line="116" column="13" selection-start="3694" selection-end="3694" vertical-scroll-proportion="0.6460369" vertical-offset="306" max-vertical-offset="2295">
               <folding>
                 <element signature="e#24#61#0" expanded="true" />
                 <element signature="e#607#789#0" expanded="false" />
                 <element signature="e#831#2780#0" expanded="false" />
                 <element signature="e#2822#3246#0" expanded="false" />
-                <marker date="1425047648681" expanded="true" signature="842:908" placeholder="SELECT itemn..items..." />
-                <marker date="1425047648681" expanded="true" signature="842:986" placeholder="SELECT itemn..items..." />
-                <marker date="1425047648681" expanded="true" signature="4580:4649" placeholder="SELECT item_..drops..." />
-                <marker date="1425047648681" expanded="true" signature="4580:4650" placeholder="SELECT item_..drops..." />
-                <marker date="1425047648681" expanded="true" signature="5420:5488" placeholder="SELECT monst..monsters..." />
-                <marker date="1425047648681" expanded="true" signature="5420:5488" placeholder="SELECT monst..monsters..." />
-                <marker date="1425047648681" expanded="true" signature="5420:5566" placeholder="SELECT monst..monsters..." />
-                <marker date="1425047648681" expanded="true" signature="5420:5566" placeholder="SELECT monst..monsters..." />
-                <marker date="1425047648681" expanded="true" signature="5420:5635" placeholder="SELECT monst..monsters..." />
+                <marker date="1425048920949" expanded="true" signature="842:908" placeholder="SELECT itemn..items..." />
+                <marker date="1425048920949" expanded="true" signature="842:986" placeholder="SELECT itemn..items..." />
+                <marker date="1425048920949" expanded="true" signature="4632:4701" placeholder="SELECT item_..drops..." />
+                <marker date="1425048920949" expanded="true" signature="4632:4702" placeholder="SELECT item_..drops..." />
+                <marker date="1425048920949" expanded="true" signature="5472:5540" placeholder="SELECT monst..monsters..." />
+                <marker date="1425048920949" expanded="true" signature="5472:5618" placeholder="SELECT monst..monsters..." />
+                <marker date="1425048920949" expanded="true" signature="5472:5687" placeholder="SELECT monst..monsters..." />
               </folding>
             </state>
           </provider>
@@ -101,16 +99,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="BestSpoil" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BestSpoil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BestSpoil" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -239,6 +227,9 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,9 +251,6 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -342,7 +330,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -392,21 +380,38 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/database.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="0" selection-start="2782" selection-end="2782" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2261">
+          <folding>
+            <element signature="e#24#61#0" expanded="true" />
+            <element signature="e#607#789#0" expanded="false" />
+            <element signature="e#831#2780#0" expanded="false" />
+            <element signature="e#2822#3246#0" expanded="false" />
+            <marker date="1425048920949" expanded="true" signature="842:908" placeholder="SELECT itemn..items..." />
+            <marker date="1425048920949" expanded="true" signature="842:986" placeholder="SELECT itemn..items..." />
+            <marker date="1425048920949" expanded="true" signature="4632:4701" placeholder="SELECT item_..drops..." />
+            <marker date="1425048920949" expanded="true" signature="4632:4702" placeholder="SELECT item_..drops..." />
+            <marker date="1425048920949" expanded="true" signature="5472:5540" placeholder="SELECT monst..monsters..." />
+            <marker date="1425048920949" expanded="true" signature="5472:5618" placeholder="SELECT monst..monsters..." />
+            <marker date="1425048920949" expanded="true" signature="5472:5687" placeholder="SELECT monst..monsters..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="44" selection-start="1232" selection-end="1232" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="1343">
           <folding>
             <element signature="e#24#61#0" expanded="true" />
             <element signature="e#607#789#0" expanded="false" />
             <element signature="e#831#2780#0" expanded="false" />
             <element signature="e#2822#3246#0" expanded="false" />
-            <marker date="1425047648681" expanded="true" signature="842:908" placeholder="SELECT itemn..items..." />
-            <marker date="1425047648681" expanded="true" signature="842:986" placeholder="SELECT itemn..items..." />
-            <marker date="1425047648681" expanded="true" signature="4580:4649" placeholder="SELECT item_..drops..." />
-            <marker date="1425047648681" expanded="true" signature="4580:4650" placeholder="SELECT item_..drops..." />
-            <marker date="1425047648681" expanded="true" signature="5420:5488" placeholder="SELECT monst..monsters..." />
-            <marker date="1425047648681" expanded="true" signature="5420:5488" placeholder="SELECT monst..monsters..." />
-            <marker date="1425047648681" expanded="true" signature="5420:5566" placeholder="SELECT monst..monsters..." />
-            <marker date="1425047648681" expanded="true" signature="5420:5566" placeholder="SELECT monst..monsters..." />
-            <marker date="1425047648681" expanded="true" signature="5420:5635" placeholder="SELECT monst..monsters..." />
+            <marker date="1425048920949" expanded="true" signature="842:908" placeholder="SELECT itemn..items..." />
+            <marker date="1425048920949" expanded="true" signature="842:986" placeholder="SELECT itemn..items..." />
+            <marker date="1425048920949" expanded="true" signature="4632:4701" placeholder="SELECT item_..drops..." />
+            <marker date="1425048920949" expanded="true" signature="4632:4702" placeholder="SELECT item_..drops..." />
+            <marker date="1425048920949" expanded="true" signature="5472:5540" placeholder="SELECT monst..monsters..." />
+            <marker date="1425048920949" expanded="true" signature="5472:5618" placeholder="SELECT monst..monsters..." />
+            <marker date="1425048920949" expanded="true" signature="5472:5687" placeholder="SELECT monst..monsters..." />
           </folding>
         </state>
       </provider>
@@ -434,21 +439,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/database.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="0" selection-start="2782" selection-end="2782" vertical-scroll-proportion="-0.7535288" vertical-offset="1340" max-vertical-offset="2261">
+        <state line="116" column="13" selection-start="3694" selection-end="3694" vertical-scroll-proportion="0.6460369" vertical-offset="306" max-vertical-offset="2295">
           <folding>
             <element signature="e#24#61#0" expanded="true" />
             <element signature="e#607#789#0" expanded="false" />
             <element signature="e#831#2780#0" expanded="false" />
             <element signature="e#2822#3246#0" expanded="false" />
-            <marker date="1425047648681" expanded="true" signature="842:908" placeholder="SELECT itemn..items..." />
-            <marker date="1425047648681" expanded="true" signature="842:986" placeholder="SELECT itemn..items..." />
-            <marker date="1425047648681" expanded="true" signature="4580:4649" placeholder="SELECT item_..drops..." />
-            <marker date="1425047648681" expanded="true" signature="4580:4650" placeholder="SELECT item_..drops..." />
-            <marker date="1425047648681" expanded="true" signature="5420:5488" placeholder="SELECT monst..monsters..." />
-            <marker date="1425047648681" expanded="true" signature="5420:5488" placeholder="SELECT monst..monsters..." />
-            <marker date="1425047648681" expanded="true" signature="5420:5566" placeholder="SELECT monst..monsters..." />
-            <marker date="1425047648681" expanded="true" signature="5420:5566" placeholder="SELECT monst..monsters..." />
-            <marker date="1425047648681" expanded="true" signature="5420:5635" placeholder="SELECT monst..monsters..." />
+            <marker date="1425048920949" expanded="true" signature="842:908" placeholder="SELECT itemn..items..." />
+            <marker date="1425048920949" expanded="true" signature="842:986" placeholder="SELECT itemn..items..." />
+            <marker date="1425048920949" expanded="true" signature="4632:4701" placeholder="SELECT item_..drops..." />
+            <marker date="1425048920949" expanded="true" signature="4632:4702" placeholder="SELECT item_..drops..." />
+            <marker date="1425048920949" expanded="true" signature="5472:5540" placeholder="SELECT monst..monsters..." />
+            <marker date="1425048920949" expanded="true" signature="5472:5618" placeholder="SELECT monst..monsters..." />
+            <marker date="1425048920949" expanded="true" signature="5472:5687" placeholder="SELECT monst..monsters..." />
           </folding>
         </state>
       </provider>
